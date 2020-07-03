@@ -1,6 +1,5 @@
 # LinkedIn-Webpage
-<hr>
-<br><br>
+<br>
 
 <p>Preview of webpage</p>
 <img src="images/capture.png">
